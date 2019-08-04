@@ -35,7 +35,7 @@ Colnames is used to add labels to all the numerical variables, and the categoric
 Subject_Id and activity.
 
 Step 4: Extracting Indices of Mean and Standard Deviation Variables & Subsetting the Dataset with them.
-Grep is used to get the indicies of all variables with the abreviation for mean and standard deviation.
+Grep is used to get the indicies of all variables with the abbreviation for mean and standard deviation.
 Then the indices are used to subset the data to include just mean and standard deviation as requested.
 
 Step 5: Changes observations in variable Activities to descriptive strings.
